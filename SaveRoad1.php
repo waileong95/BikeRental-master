@@ -21,7 +21,7 @@ $tyre=$_POST['tyre'];
 $BookDate=$_POST['BookDate'];
 $ReturnDate=$_POST['ReturnDate'];
 $numdays=$_POST['numdays'];
-$price=$_POST['the original word is price'];
+$price=$_POST['price'];
 $quantity=$_POST['quantity'];
 
 if ($row3[0]==0 || $row3[0]<$quantity)
